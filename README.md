@@ -15,9 +15,9 @@ Uses low-level audio plugin [flutter_soloud](https://github.com/alnitak/flutter_
 - Includes fullscreen function.
 - Support for MP3, WAV, OGG, and FLAC.
 
-## Install Visualizer Black Player on Linux
+## Install Visualizer Black Player
 
-#### Debian linux distribution like Debian, Ubuntu, Linux mint, etc.
+### Debian linux distribution like Debian, Ubuntu, Linux mint, etc.
 
 Download file from repository `visualizerblackplayer-1.0.0+1.0.0-linux.deb` and install from terminal.
 
