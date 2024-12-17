@@ -15,15 +15,33 @@ Uses low-level audio plugin [flutter_soloud](https://github.com/alnitak/flutter_
 - Includes fullscreen function.
 - Support for MP3, WAV, OGG, and FLAC.
 
-## Getting Started
+## Install Visualizer Black Player on Linux
 
-This project is a starting point for a Flutter application.
+#### Debian linux distribution like Debian, Ubuntu, Linux mint, etc.
 
-A few resources to get you started if this is your first Flutter project:
+Download file from repository `visualizerblackplayer-1.0.0+1.0.0-linux.deb` and install from terminal.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+`sudo apt install ./your_folder/visualizerblackplayer-1.0.0+1.0.0-linux.deb`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ejecute to open desktop app:
+
+`visualizerblackplayer`
+
+Now Visualizer Black Player is installed.
+
+`dpkg -l | grep visualizerblackplayer`
+```
+visualizerblackplayer 1.0.0 amd64 Visualizer Black Player in flutter.
+```
+
+If you want to remove:
+
+`sudo apt remove visualizerblackplayer`
+
+And purge from dpkg list:
+
+`sudo apt purge visualizerblackplayer`
+
+
+
+
