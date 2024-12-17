@@ -1,6 +1,6 @@
 # visualizerblackplayer
 
-A Flutter project Visualizer Black Player is a audio player write in dart for Linux .deb.
+A new Flutter project Visualizer Black Player is a audio player write in dart for Linux .deb.
 
 |Linux|
 |:-:|
@@ -12,7 +12,6 @@ Uses low-level audio plugin [flutter_soloud](https://github.com/alnitak/flutter_
 - Visualization change at user's choice or automatic.
 - Volume control in app.
 - Color change at user's choice or automatic.
-- Select Visualizer: manual/auto.
 - Includes fullscreen function.
 - Support for MP3, WAV, OGG, and FLAC.
 
